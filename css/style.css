@@ -65,10 +65,11 @@ a:hover{
 }
 /*--profile start here--*/
 h1 {
-    font-size: 3em;
+    font-size: 1em;
     color: #fff;
     text-align: center;
     letter-spacing: 6px;
+    opacity: 0.0;
 }
 .profile-main {
     background:#fff;
